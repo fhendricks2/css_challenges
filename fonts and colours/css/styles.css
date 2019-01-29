@@ -1,0 +1,16 @@
+body {
+    background-color: #9cdbffaa;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+em {
+    color: #f00;
+}
+
+p {
+    font-family: 'Inconsolata', monospace;
+}
