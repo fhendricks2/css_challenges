@@ -1,0 +1,92 @@
+/* link to fontawesome */
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+* {
+    box-sizing: border-box;
+  }
+  
+body {
+    margin: 0 auto;
+    min-width: 1000px;
+    max-width: 1400px;
+}
+  
+/* Layout */
+  
+section {
+    float: left;
+    width: 50%;
+}
+  
+aside {
+    float: left;
+    width: 30%;
+}
+  
+nav {
+    float: left;
+    width: 20%;
+}
+  
+footer {
+    clear: both;
+}
+  
+header, 
+section, 
+aside, 
+nav, 
+footer {
+    padding: 20px;
+}
+  
+/* header and footer */
+  
+header, 
+footer {
+    border-top: 5px solid #a66;
+    border-bottom: 5px solid #a66;
+}
+  
+/* header */
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Roboto', sans-serif;
+    color: #8c4949;
+}
+
+/* body */
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+p,
+li {
+    font-family: 'Roboto Mono', monospace
+}
+
+h2 {
+    font-family: 'Roboto Slab', serif;
+    text-decoration: underline;
+    color: #5d2525;
+}
+
+aside li {
+    list-style-type: square;
+}
+
+footer {
+    text-align: center;
+}
+
+img {
+    width: 430px;
+    height: 325px;
+}
