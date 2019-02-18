@@ -1,0 +1,50 @@
+.float1 {
+    background-color: aqua;
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin: 0 25px;
+}
+
+
+.float1:hover {
+    background-color: #be7c4d;
+}
+
+.float2 {
+    background-color: blueviolet;
+    float: right;
+    height: 200px;
+    width: 200px;
+    margin: 0 25px;
+}
+
+.float2:hover {
+    background-color: #c37d79;
+}
+
+.float3 {
+    background-color: cadetblue;
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin: 0 25px;
+}
+
+.float3:hover {
+    background-color: chartreuse;
+    width: 600px;
+}
+
+.float4 {
+    background-color: cornflowerblue;
+    float: right;
+    height: 200px;
+    width: 200px;
+    margin: 0 25px;
+}
+
+.float4:hover {
+    background-color: magenta;
+    width: 50px;
+}
